@@ -1,0 +1,37 @@
+*{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+#menuNav>a{
+  border: .5px solid rgba(0, 0, 0, 0.849);
+    border-radius: 25% 10%;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.headerFlex{
+  display: flex;
+  background-color: #472243;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+
+.mainFlex {
+  display: flex;
+  background-color: #006a65;
+  align-items: center;
+}
+
+.textContainer{
+  padding-left: 40px;
+}
+
+.logo{
+  width: 125px;
+  height: 125px;
+}
+
+.imagen{
+  width: 250px;
+  height: 250px;
+}
